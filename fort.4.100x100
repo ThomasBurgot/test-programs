@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<d:error xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns">
-  <s:exception>Sabre\DAV\Exception\NotFound</s:exception>
-  <s:message>File with name /thomas/fort.4.100x100 could not be located</s:message>
-</d:error>
+&NAMAATESTPROG
+  NFLDUA=1,
+  NFLDSU=0,
+  NSMAX=50,
+  NMSMAX=50,
+  NDGLG=100,
+  NFLEVG=3,
+  NDLON=100,
+  NPRINTLEV=1,
+  LELAM=.TRUE.,
+/
+&NAMTRANS
+/
+&NAMPAR0
+/
+&NAMPAR1
+/
+&NAMRGRI
+/
